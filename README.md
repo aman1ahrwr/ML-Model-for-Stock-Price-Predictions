@@ -1,0 +1,2 @@
+# ML-Model-for-Stock-Price-Predictions
+This is an Machine learning Model for Stock price predictions which get hold of data from past sixty days of the stock price movements to in order to predict the tomorrow price. Data Fetched from Yahoo Finance API, Libraries used are numpy, scikit-learn, pandas, tensorflow, pandas_datareader. The model give a good enough prediction corresponding to the sixty days data(short term). This is only for programming learning perspective Advised to do not use it for predicting/investing in the stocks.
